@@ -1,0 +1,7 @@
+hsa_MTI.xlsx filter=lfs diff=lfs merge=lfs -text
+5.csv filter=lfs diff=lfs merge=lfs -text
+5_miRTarBase_SE_WR.csv filter=lfs diff=lfs merge=lfs -text
+5_miRTarBase_SE_WR.xls filter=lfs diff=lfs merge=lfs -text
+5_miRTarBase_WE_MP.csv filter=lfs diff=lfs merge=lfs -text
+5_miRTarBase_WE_MP.xls filter=lfs diff=lfs merge=lfs -text
+hsa_MTI.csv filter=lfs diff=lfs merge=lfs -text

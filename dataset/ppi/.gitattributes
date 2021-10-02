@@ -1,0 +1,2 @@
+1_BINARY_PROTEIN_PROTEIN_INTERACTIONS.txt filter=lfs diff=lfs merge=lfs -text
+1.csv filter=lfs diff=lfs merge=lfs -text

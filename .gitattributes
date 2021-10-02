@@ -22,3 +22,8 @@ dataset/mirna_disease/6_miRNet-mir-disease.csv filter=lfs diff=lfs merge=lfs -te
 dataset/mirna_disease/6_12920_2012_377_MOESM3_ESM_1.csv filter=lfs diff=lfs merge=lfs -text
 dataset/ppi/1_BINARY_PROTEIN_PROTEIN_INTERACTIONS.txt filter=lfs diff=lfs merge=lfs -text
 dataset/ppi/1.csv filter=lfs diff=lfs merge=lfs -text
+dataset/disease_phenotype/ filter=lfs diff=lfs merge=lfs -text
+dataset/gene_mirna/ filter=lfs diff=lfs merge=lfs -text
+dataset/gene_disease/ filter=lfs diff=lfs merge=lfs -text
+dataset/mirna_disease/ filter=lfs diff=lfs merge=lfs -text
+dataset/ppi/ filter=lfs diff=lfs merge=lfs -text
